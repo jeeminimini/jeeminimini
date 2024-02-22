@@ -9,6 +9,7 @@ I'm interested in Android
 - 2023 Samsung MX SW internship (2023.7 ~ 2023.8)   
 
 ### Experience
+- Sejong University Intelligent Mechatronics Engineering Smart Device Engineering (2019.3 ~ 2024.2)
 - [NAVER Connect Foundation] boostcamp web·mobile 7th Android (2022.7 ~ 2022.12)    
 
 ### Awards
